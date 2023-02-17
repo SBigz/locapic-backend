@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-const Place = require('../models/Places');
+const Place = require('../models/places');
 
 // Get /places - récupérer tous les marqueurs en base de donnée
 
